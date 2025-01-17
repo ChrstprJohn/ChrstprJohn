@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ChrstprJohn
+- 👀 I’m interested in web development, programming, and learning new technologies.
+- 🌱 I’m currently learning Java, JavaScript, HTML, CSS, and Git.
+- 💞️ I’m looking to collaborate on web development projects, GitHub open-source contributions, and learning communities.
+- 📫 How to reach me: You can reach me via email at picardochristopherjohnoleo1@gmail.com or through my GitHub profile.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving programming challenges and learning new languages.
